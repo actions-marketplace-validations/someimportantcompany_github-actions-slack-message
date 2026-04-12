@@ -4,6 +4,9 @@
 [![CICD](https://github.com/someimportantcompany/github-actions-slack-message/workflows/CICD/badge.svg?branch=master&event=push)](https://github.com/someimportantcompany/github-actions-slack-message/actions?query=workflow%3ACICD)
 [![Coverage](https://coveralls.io/repos/github/someimportantcompany/github-actions-slack-message/badge.svg)](https://coveralls.io/github/someimportantcompany/github-actions-slack-message)
 
+> [!WARNING]
+> **No longer maintained** - replaced with <https://github.com/slackapi/slack-github-action>
+
 Send messages to Slack from GitHub Actions.
 
 This action sends message to Slack during your GitHub Actions workflow. It takes a minimalist approach, showing a handful of metadata options like repository, branch & commit. You can optionally update message in-place to reduce noise in your Slack channel.
